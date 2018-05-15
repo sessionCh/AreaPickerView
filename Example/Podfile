@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AreaPickerView_Example' do
+  pod 'AreaPickerView', :path => '../'
+
+  target 'AreaPickerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
