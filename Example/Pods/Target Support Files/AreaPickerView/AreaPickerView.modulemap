@@ -1,0 +1,6 @@
+framework module AreaPickerView {
+  umbrella header "AreaPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

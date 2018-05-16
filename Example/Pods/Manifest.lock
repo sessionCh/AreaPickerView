@@ -1,0 +1,16 @@
+PODS:
+  - AreaPickerView (0.1.0)
+
+DEPENDENCIES:
+  - AreaPickerView (from `../`)
+
+EXTERNAL SOURCES:
+  AreaPickerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AreaPickerView: 9839e73ff429b3bff86335f76fb1afe9b99b5e7b
+
+PODFILE CHECKSUM: b1b061e978a8ed3ade7c82a238320624ad1e9826
+
+COCOAPODS: 1.4.0

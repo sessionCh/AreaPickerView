@@ -1,0 +1,27 @@
+{
+  "name": "AreaPickerView",
+  "version": "0.1.0",
+  "summary": "A short description of AreaPickerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sessionCh/AreaPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sessionCh": "641331737@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sessionCh/AreaPickerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AreaPickerView/Classes/**/*",
+  "resource_bundles": {
+    "AreaPickerView": [
+      "AreaPickerView/Resources/*.{storyboard,xcassets,json}"
+    ]
+  }
+}
