@@ -9,7 +9,14 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Introduce
+
+一款实用简洁的省市区选择器.
+
+## Effect
+
+![地区选择器截图](http://ovy8j7ypb.bkt.clouddn.com/5.17%E5%9C%B0%E5%8C%BA%E9%80%89%E6%8B%A9%E5%99%A8%E6%88%AA%E5%9B%BE.PNG)
+
 
 ## Installation
 
